@@ -1,0 +1,5 @@
+{
+  "name": "Image Generator App",
+  "description": "An AI-powered application to generate and edit images. Use text prompts to create new visuals with the Imagen model or upload your own photos and modify them with Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
